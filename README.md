@@ -1,7 +1,7 @@
 # MiTesis
 The thesis was written in Spanish and can be downloaded from the Universities Library in this link: http://biblioteca.usac.edu.gt/tesis/08/08_0222_CS.pdf
 
-This is the source code of my tesis. The tesis was published in the University web site. And was developed between January 2003 and October 2003 using the Rational Unified
+This is the source code of my tesis. The tesis was published in the University web site. And was developed between January 2002 and October 2003 using the Rational Unified
 Process, Universial Modeling Language, SQL Data Base and the three layer architecture model for web application. 
 I programmed this source code for a project that was approved by the Professors at the School of Sciences and Systems Enginnering at the Facultyd of Enginnering of the 
 Univeristy San Carlos of Guatemala (Universidad de San Carlos de Guatemala) in Guatemala, Guatemala. 
