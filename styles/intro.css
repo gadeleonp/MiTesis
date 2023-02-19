@@ -1,0 +1,16 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-attachment: fixed;
+	background-image: url(../images/hp2_16.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	scrollbar-3dlight-color : #DFDFDF;
+	scrollbar-arrow-color : #030200;
+	scrollbar-base-color : #E8EDF1;
+	scrollbar-darkshadow-color : #717171;
+	scrollbar-face-color : #DFDFDF;
+	scrollbar-highlight-color : #FFFFFD;
+	scrollbar-shadow-color : #A8A8A8;
+	scrollbar-track-color : White;
+}
