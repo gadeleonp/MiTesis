@@ -1,4 +1,4 @@
-# MiTesis
+# MiTesis My Thesis
 The thesis was written in Spanish and can be downloaded from the Universities Library in this link: http://biblioteca.usac.edu.gt/tesis/08/08_0222_CS.pdf
 
 This is the source code of my thesis. The thesis was published in the University web site. And was developed between January 2002 and October 2003 using the Rational Unified Process, Universial Modeling Language, SQL Data Base and the three layer architecture model for web application. 
